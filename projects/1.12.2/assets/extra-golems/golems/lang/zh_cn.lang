@@ -21,9 +21,9 @@ entity.golems.golem_nether_wart.name=地狱疣傀儡
 entity.golems.golem_obsidian.name=黑曜石傀儡
 entity.golems.golem_prismarine.name=海晶石傀儡
 entity.golems.golem_quartz.name=石英傀儡
-entity.golems.golem_red_sandstone.name=红砂石傀儡
+entity.golems.golem_red_sandstone.name=红砂岩傀儡
 entity.golems.golem_redstone.name=红石傀儡
-entity.golems.golem_sandstone.name=砂石傀儡
+entity.golems.golem_sandstone.name=砂岩傀儡
 entity.golems.golem_sea_lantern.name=海晶灯傀儡
 entity.golems.golem_shroom.name=蘑菇傀儡
 entity.golems.golem_slime.name=粘液块傀儡
@@ -87,4 +87,4 @@ entitytip.splits_upon_death=分裂成两个！
 # Vanilla fix
 tile.concrete.name=混凝土
 entity.golems.golem_redstone_lamp.name=红石灯傀儡
-entitytip.lights_area_toggle=右键单击来切换灯光
+entitytip.lights_area_toggle=右击来切换灯光

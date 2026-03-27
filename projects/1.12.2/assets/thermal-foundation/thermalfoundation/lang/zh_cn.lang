@@ -1,23 +1,28 @@
+#zh_cn
+
 chat.thermalfoundation.augment.install.failure=不能安装升级组件。
 chat.thermalfoundation.augment.install.success=升级组件安装成功！
 chat.thermalfoundation.upgrade.install.failure=不能升级该方块。
 chat.thermalfoundation.upgrade.install.success=方块升级成功！
+
 death.attack.basalz=%1$s的世界天翻地覆！
 death.attack.blitz=%1$s得到了悲惨的教训！
 death.attack.blizz=%1$s邂逅了冰冷的命运！
-death.attack.cryotheum=%1$s冻死了！
 death.attack.cryotheum.player=%1$s为了逃脱%2$s被冻死了！
-death.attack.flux=%1$s被成功熔融了！
+death.attack.cryotheum=%1$s冻死了！
 death.attack.flux.player=%1$s被%2$s熔融了！
-death.attack.mana=%1$s被原始魔力撕碎了！
+death.attack.flux=%1$s被成功熔融了！
 death.attack.mana.player=%1$s为了逃脱%2$s被转换成了另一种状态！
-death.attack.petrotheum=%1$s被震碎了胆！
+death.attack.mana=%1$s被原始魔力撕碎了！
 death.attack.petrotheum.player=%1$s为了逃脱%2$s被震散架了！
-death.attack.pyrotheum=%1$s误把烈焰之炽焱当成了水！
+death.attack.petrotheum=%1$s被震碎了胆！
 death.attack.pyrotheum.player=%1$s为了逃脱%2$s被活活烧死！
+death.attack.pyrotheum=%1$s误把烈焰之炽焱当成了水！
+
 entity.thermalfoundation.basalz.name=岩石人
 entity.thermalfoundation.blitz.name=狂风人
 entity.thermalfoundation.blizz.name=暴雪人
+
 fluid.aerotheum=飞扬之清风
 fluid.biocrude=生物质原油
 fluid.coal=液态煤炭
@@ -25,10 +30,10 @@ fluid.constantan=熔融康铜
 fluid.creosote=杂酚油
 fluid.crude_oil=石油
 fluid.cryotheum=极寒之凛冰
-fluid.ender=谐振末影珍珠
+fluid.ender=谐振末影
 fluid.enderium=熔融末影
 fluid.experience=知识精华
-fluid.glowstone=充能液态荧石
+fluid.glowstone=充能荧石
 fluid.invar=熔融殷钢
 fluid.iridium=熔融铱
 fluid.lumium=熔融流明
@@ -51,6 +56,7 @@ fluid.signalum=熔融信素
 fluid.steam=蒸汽
 fluid.syrup=糖浆
 fluid.tree_oil=树油
+
 gui.thermalfoundation.lexicon.clearPreference=清空偏好
 gui.thermalfoundation.lexicon.nextEntry=下一条目
 gui.thermalfoundation.lexicon.prevEntry=上一条目
@@ -59,83 +65,104 @@ gui.thermalfoundation.lexicon.setPreference=设定偏好
 gui.thermalfoundation.lexicon.singleEntry=仅一个条目
 gui.thermalfoundation.lexicon.study=词典 - 知识
 gui.thermalfoundation.lexicon.transmute=词典 - 变化
+
 info.thermalfoundation.diagram.erase=潜行时使用可抹去其上的数据。
 info.thermalfoundation.diagram.redprint.0=对着设备使用可复制其配置。
 info.thermalfoundation.diagram.redprint.1=对着设备使用可快速应用该配置。
+
 info.thermalfoundation.offhandUse=在放置方块时自动使用。
+
 info.thermalfoundation.security.lock=对可设定权限的方块或者物品使用。
+
 info.thermalfoundation.tome.experience.0=在页面中存储经验。
 info.thermalfoundation.tome.experience.1=用来存储书本上的知识。
 info.thermalfoundation.tome.experience.2=潜行时检索存储的知识。
 info.thermalfoundation.tome.experience.a.0=§b按下 %s 启用自动收集。§r
 info.thermalfoundation.tome.experience.a.1=§e按下 %s 禁用自动收集。§r
+
 info.thermalfoundation.tome.lexicon.0=等价转换物品。
 info.thermalfoundation.tome.lexicon.1=也称为 Thesoreus。
 info.thermalfoundation.tome.lexicon.a.0=右击打开以学习。
 info.thermalfoundation.tome.lexicon.a.1=右击打开以转换。
 info.thermalfoundation.tome.lexicon.b.0=§b按下 %s 以获得知识！§r
 info.thermalfoundation.tome.lexicon.b.1=§e按下 %s 以遗忘知识。§r
+
 info.thermalfoundation.upgrade.creative.0=将目标方块直接升级至创造级。
 info.thermalfoundation.upgrade.creative.1=可在任何级别的方块上使用。
 info.thermalfoundation.upgrade.full.0=将目标方块完整升级到指定等级。
 info.thermalfoundation.upgrade.full.1=可在任何低级别的方块上使用。
 info.thermalfoundation.upgrade.incremental.0=将目标方块提升一个等级。
 info.thermalfoundation.upgrade.incremental.1=目标方块必须比该升级低一级。
+
 info.thermalfoundation.util.multimeter.0=显示目标的信息。
 info.thermalfoundation.util.multimeter.1=某些设备支持用其调整设置（需在潜行时完成）。
 info.thermalfoundation.util.wrench.0=旋转和拆除方块。
 info.thermalfoundation.util.wrench.1=其实是一把扳手，但如果你需要它的话，任何东西都是一把锤子。
+
 item.thermalfoundation.armor.aluminumBoots.name=铝靴子
-item.thermalfoundation.armor.aluminumChestplate.name=铝胸甲
 item.thermalfoundation.armor.aluminumHelmet.name=铝头盔
 item.thermalfoundation.armor.aluminumLegs.name=铝护腿
+item.thermalfoundation.armor.aluminumChestplate.name=铝胸甲
+
 item.thermalfoundation.armor.bronzeBoots.name=青铜靴子
-item.thermalfoundation.armor.bronzeChestplate.name=青铜胸甲
 item.thermalfoundation.armor.bronzeHelmet.name=青铜头盔
 item.thermalfoundation.armor.bronzeLegs.name=青铜护腿
+item.thermalfoundation.armor.bronzeChestplate.name=青铜胸甲
+
 item.thermalfoundation.armor.constantanBoots.name=康铜靴子
-item.thermalfoundation.armor.constantanChestplate.name=康铜胸甲
 item.thermalfoundation.armor.constantanHelmet.name=康铜头盔
 item.thermalfoundation.armor.constantanLegs.name=康铜护腿
+item.thermalfoundation.armor.constantanChestplate.name=康铜胸甲
+
 item.thermalfoundation.armor.copperBoots.name=铜靴子
-item.thermalfoundation.armor.copperChestplate.name=铜胸甲
 item.thermalfoundation.armor.copperHelmet.name=铜头盔
 item.thermalfoundation.armor.copperLegs.name=铜护腿
+item.thermalfoundation.armor.copperChestplate.name=铜胸甲
+
 item.thermalfoundation.armor.electrumBoots.name=琥珀金靴子
-item.thermalfoundation.armor.electrumChestplate.name=琥珀金胸甲
 item.thermalfoundation.armor.electrumHelmet.name=琥珀金头盔
 item.thermalfoundation.armor.electrumLegs.name=琥珀金护腿
+item.thermalfoundation.armor.electrumChestplate.name=琥珀金胸甲
+
 item.thermalfoundation.armor.invarBoots.name=殷钢靴子
-item.thermalfoundation.armor.invarChestplate.name=殷钢胸甲
 item.thermalfoundation.armor.invarHelmet.name=殷钢头盔
 item.thermalfoundation.armor.invarLegs.name=殷钢护腿
+item.thermalfoundation.armor.invarChestplate.name=殷钢胸甲
+
 item.thermalfoundation.armor.leadBoots.name=铅靴子
-item.thermalfoundation.armor.leadChestplate.name=铅胸甲
 item.thermalfoundation.armor.leadHelmet.name=铅头盔
 item.thermalfoundation.armor.leadLegs.name=铅护腿
+item.thermalfoundation.armor.leadChestplate.name=铅胸甲
+
 item.thermalfoundation.armor.nickelBoots.name=镍靴子
-item.thermalfoundation.armor.nickelChestplate.name=镍胸甲
 item.thermalfoundation.armor.nickelHelmet.name=镍头盔
 item.thermalfoundation.armor.nickelLegs.name=镍护腿
+item.thermalfoundation.armor.nickelChestplate.name=镍胸甲
+
 item.thermalfoundation.armor.platinumBoots.name=铂靴子
-item.thermalfoundation.armor.platinumChestplate.name=铂胸甲
 item.thermalfoundation.armor.platinumHelmet.name=铂头盔
 item.thermalfoundation.armor.platinumLegs.name=铂护腿
+item.thermalfoundation.armor.platinumChestplate.name=铂胸甲
+
 item.thermalfoundation.armor.silverBoots.name=银靴子
-item.thermalfoundation.armor.silverChestplate.name=银胸甲
 item.thermalfoundation.armor.silverHelmet.name=银头盔
 item.thermalfoundation.armor.silverLegs.name=银护腿
+item.thermalfoundation.armor.silverChestplate.name=银胸甲
+
 item.thermalfoundation.armor.steelBoots.name=钢靴子
-item.thermalfoundation.armor.steelChestplate.name=钢胸甲
 item.thermalfoundation.armor.steelHelmet.name=钢头盔
 item.thermalfoundation.armor.steelLegs.name=钢护腿
+item.thermalfoundation.armor.steelChestplate.name=钢胸甲
+
 item.thermalfoundation.armor.tinBoots.name=锡靴子
-item.thermalfoundation.armor.tinChestplate.name=锡胸甲
 item.thermalfoundation.armor.tinHelmet.name=锡头盔
 item.thermalfoundation.armor.tinLegs.name=锡护腿
+item.thermalfoundation.armor.tinChestplate.name=锡胸甲
+
 item.thermalfoundation.bait.baitBasic.name=水产饲料
 item.thermalfoundation.bait.baitFlux.name=软质水产饲料
 item.thermalfoundation.bait.baitRich.name=富集水产饲料
+
 item.thermalfoundation.coin.coinAluminum.name=铝币
 item.thermalfoundation.coin.coinBronze.name=青铜币
 item.thermalfoundation.coin.coinConstantan.name=康铜币
@@ -155,11 +182,13 @@ item.thermalfoundation.coin.coinSignalum.name=信素币
 item.thermalfoundation.coin.coinSilver.name=银币
 item.thermalfoundation.coin.coinSteel.name=钢币
 item.thermalfoundation.coin.coinTin.name=锡币
+
 item.thermalfoundation.diagram.formula.name=公式
 item.thermalfoundation.diagram.pattern.name=样板
 item.thermalfoundation.diagram.redprint.name=红图
 item.thermalfoundation.diagram.schematic.name=图纸
 item.thermalfoundation.diagram.scroll.name=卷轴
+
 item.thermalfoundation.dye.dyeBlack.name=黑色颜料
 item.thermalfoundation.dye.dyeBlue.name=蓝色颜料
 item.thermalfoundation.dye.dyeBrown.name=棕色颜料
@@ -176,10 +205,11 @@ item.thermalfoundation.dye.dyePurple.name=紫色颜料
 item.thermalfoundation.dye.dyeRed.name=红色颜料
 item.thermalfoundation.dye.dyeWhite.name=白色颜料
 item.thermalfoundation.dye.dyeYellow.name=黄色颜料
+
 item.thermalfoundation.fertilizer.fertilizerBasic.name=光合堆肥
 item.thermalfoundation.fertilizer.fertilizerFlux.name=充能光合堆肥
 item.thermalfoundation.fertilizer.fertilizerRich.name=富集光合堆肥
-item.thermalfoundation.geode.geode.name=元始结晶
+
 item.thermalfoundation.horseArmor.aluminum.name=铝马铠
 item.thermalfoundation.horseArmor.bronze.name=青铜马铠
 item.thermalfoundation.horseArmor.constantan.name=康铜马铠
@@ -192,13 +222,17 @@ item.thermalfoundation.horseArmor.platinum.name=铂马铠
 item.thermalfoundation.horseArmor.silver.name=银马铠
 item.thermalfoundation.horseArmor.steel.name=钢马铠
 item.thermalfoundation.horseArmor.tin.name=锡马铠
+
+item.thermalfoundation.geode.geode.name=元始结晶
+
 item.thermalfoundation.material.crystalCinnabar.name=朱砂
 item.thermalfoundation.material.crystalCrudeOil.name=沥青
-item.thermalfoundation.material.crystalEnder.name=谐振末影络合物
+item.thermalfoundation.material.crystalEnder.name=谐振络合物
 item.thermalfoundation.material.crystalGlowstone.name=充能络合物
-item.thermalfoundation.material.crystalRedstone.name=不稳定红石络合物
+item.thermalfoundation.material.crystalRedstone.name=不稳定络合物
 item.thermalfoundation.material.crystalSlag.name=炉渣
 item.thermalfoundation.material.crystalSlagRich.name=富炉渣
+
 item.thermalfoundation.material.dustAerotheum.name=空气粉
 item.thermalfoundation.material.dustAluminum.name=铝粉
 item.thermalfoundation.material.dustBasalz.name=岩石粉
@@ -237,7 +271,9 @@ item.thermalfoundation.material.dustSulfur.name=硫磺
 item.thermalfoundation.material.dustTin.name=锡粉
 item.thermalfoundation.material.dustWood.name=锯末
 item.thermalfoundation.material.dustWoodCompressed.name=压缩锯末
+
 item.thermalfoundation.material.fuelCoke.name=焦炭
+
 item.thermalfoundation.material.gearAluminum.name=铝齿轮
 item.thermalfoundation.material.gearBronze.name=青铜齿轮
 item.thermalfoundation.material.gearConstantan.name=康铜齿轮
@@ -261,8 +297,10 @@ item.thermalfoundation.material.gearSteel.name=钢齿轮
 item.thermalfoundation.material.gearStone.name=石齿轮
 item.thermalfoundation.material.gearTin.name=锡齿轮
 item.thermalfoundation.material.gearWood.name=木齿轮
+
 item.thermalfoundation.material.globRosin.name=松香
 item.thermalfoundation.material.globTar.name=焦油沥青
+
 item.thermalfoundation.material.ingotAluminum.name=铝锭
 item.thermalfoundation.material.ingotBronze.name=青铜锭
 item.thermalfoundation.material.ingotConstantan.name=康铜锭
@@ -280,17 +318,18 @@ item.thermalfoundation.material.ingotSignalum.name=信素锭
 item.thermalfoundation.material.ingotSilver.name=银锭
 item.thermalfoundation.material.ingotSteel.name=钢锭
 item.thermalfoundation.material.ingotTin.name=锡锭
+
 item.thermalfoundation.material.nuggetAluminum.name=铝粒
 item.thermalfoundation.material.nuggetBronze.name=青铜粒
 item.thermalfoundation.material.nuggetConstantan.name=康铜粒
 item.thermalfoundation.material.nuggetCopper.name=铜粒
 item.thermalfoundation.material.nuggetDiamond.name=钻石粒
-item.thermalfoundation.material.nuggetElectrum.name=琥珀金粒
 item.thermalfoundation.material.nuggetEmerald.name=绿宝石粒
+item.thermalfoundation.material.nuggetElectrum.name=琥珀金粒
 item.thermalfoundation.material.nuggetEnderium.name=末影粒
 item.thermalfoundation.material.nuggetInvar.name=殷钢粒
-item.thermalfoundation.material.nuggetIridium.name=铱粒
 item.thermalfoundation.material.nuggetIron.name=铁粒
+item.thermalfoundation.material.nuggetIridium.name=铱粒
 item.thermalfoundation.material.nuggetLead.name=铅粒
 item.thermalfoundation.material.nuggetLumium.name=流明粒
 item.thermalfoundation.material.nuggetMithril.name=蕴魔秘银粒
@@ -300,9 +339,11 @@ item.thermalfoundation.material.nuggetSignalum.name=信素粒
 item.thermalfoundation.material.nuggetSilver.name=银粒
 item.thermalfoundation.material.nuggetSteel.name=钢粒
 item.thermalfoundation.material.nuggetTin.name=锡粒
+
 item.thermalfoundation.material.partDrillHead.name=钻头
 item.thermalfoundation.material.partSawBlade.name=锯片
 item.thermalfoundation.material.partToolCasing.name=工具箱
+
 item.thermalfoundation.material.plateAluminum.name=铝板
 item.thermalfoundation.material.plateBronze.name=青铜板
 item.thermalfoundation.material.plateConstantan.name=康铜板
@@ -322,15 +363,19 @@ item.thermalfoundation.material.plateSignalum.name=信素板
 item.thermalfoundation.material.plateSilver.name=银板
 item.thermalfoundation.material.plateSteel.name=钢板
 item.thermalfoundation.material.plateTin.name=锡板
+
 item.thermalfoundation.material.powerCoilElectrum.name=红石传导线圈
 item.thermalfoundation.material.powerCoilGold.name=红石接收线圈
 item.thermalfoundation.material.powerCoilSilver.name=红石传输线圈
 item.thermalfoundation.material.redstoneServo.name=红石伺服器
+
 item.thermalfoundation.material.rodBasalz.name=岩石棒
 item.thermalfoundation.material.rodBlitz.name=狂风棒
 item.thermalfoundation.material.rodBlizz.name=暴雪棒
+
 item.thermalfoundation.tome.experience.name=知识宝典
 item.thermalfoundation.tome.lexicon.name=铁匠词典
+
 item.thermalfoundation.tool.aluminumAxe.name=铝斧
 item.thermalfoundation.tool.aluminumBow.name=铝强化弓
 item.thermalfoundation.tool.aluminumExcavator.name=铝开掘铲
@@ -339,10 +384,11 @@ item.thermalfoundation.tool.aluminumHammer.name=铝锤
 item.thermalfoundation.tool.aluminumHoe.name=铝锄
 item.thermalfoundation.tool.aluminumPickaxe.name=铝镐
 item.thermalfoundation.tool.aluminumShears.name=铝剪刀
-item.thermalfoundation.tool.aluminumShield.name=铝盾
+item.thermalfoundation.tool.aluminumShield.name=铝盾牌
 item.thermalfoundation.tool.aluminumShovel.name=铝锹
 item.thermalfoundation.tool.aluminumSickle.name=铝镰刀
 item.thermalfoundation.tool.aluminumSword.name=铝剑
+
 item.thermalfoundation.tool.bronzeAxe.name=青铜斧
 item.thermalfoundation.tool.bronzeBow.name=青铜强化弓
 item.thermalfoundation.tool.bronzeExcavator.name=青铜开掘铲
@@ -351,10 +397,11 @@ item.thermalfoundation.tool.bronzeHammer.name=青铜锤
 item.thermalfoundation.tool.bronzeHoe.name=青铜锄
 item.thermalfoundation.tool.bronzePickaxe.name=青铜镐
 item.thermalfoundation.tool.bronzeShears.name=青铜剪刀
-item.thermalfoundation.tool.bronzeShield.name=青铜盾
+item.thermalfoundation.tool.bronzeShield.name=青铜盾牌
 item.thermalfoundation.tool.bronzeShovel.name=青铜锹
 item.thermalfoundation.tool.bronzeSickle.name=青铜镰刀
 item.thermalfoundation.tool.bronzeSword.name=青铜剑
+
 item.thermalfoundation.tool.constantanAxe.name=康铜斧
 item.thermalfoundation.tool.constantanBow.name=康铜强化弓
 item.thermalfoundation.tool.constantanExcavator.name=康铜开掘铲
@@ -363,10 +410,11 @@ item.thermalfoundation.tool.constantanHammer.name=康铜锤
 item.thermalfoundation.tool.constantanHoe.name=康铜锄
 item.thermalfoundation.tool.constantanPickaxe.name=康铜镐
 item.thermalfoundation.tool.constantanShears.name=康铜剪刀
-item.thermalfoundation.tool.constantanShield.name=康铜盾
+item.thermalfoundation.tool.constantanShield.name=康铜盾牌
 item.thermalfoundation.tool.constantanShovel.name=康铜锹
 item.thermalfoundation.tool.constantanSickle.name=康铜镰刀
 item.thermalfoundation.tool.constantanSword.name=康铜剑
+
 item.thermalfoundation.tool.copperAxe.name=铜斧
 item.thermalfoundation.tool.copperBow.name=铜强化弓
 item.thermalfoundation.tool.copperExcavator.name=铜开掘铲
@@ -375,17 +423,19 @@ item.thermalfoundation.tool.copperHammer.name=铜锤
 item.thermalfoundation.tool.copperHoe.name=铜锄
 item.thermalfoundation.tool.copperPickaxe.name=铜镐
 item.thermalfoundation.tool.copperShears.name=铜剪刀
-item.thermalfoundation.tool.copperShield.name=铜盾
+item.thermalfoundation.tool.copperShield.name=铜盾牌
 item.thermalfoundation.tool.copperShovel.name=铜锹
 item.thermalfoundation.tool.copperSickle.name=铜镰刀
 item.thermalfoundation.tool.copperSword.name=铜剑
+
 item.thermalfoundation.tool.diamondBow.name=钻石强化弓
 item.thermalfoundation.tool.diamondExcavator.name=钻石开掘铲
 item.thermalfoundation.tool.diamondFishingRod.name=钻石钓鱼竿
 item.thermalfoundation.tool.diamondHammer.name=钻石锤
 item.thermalfoundation.tool.diamondShears.name=钻石剪刀
-item.thermalfoundation.tool.diamondShield.name=钻石盾
+item.thermalfoundation.tool.diamondShield.name=钻石盾牌
 item.thermalfoundation.tool.diamondSickle.name=钻石镰刀
+
 item.thermalfoundation.tool.electrumAxe.name=琥珀金斧
 item.thermalfoundation.tool.electrumBow.name=琥珀金强化弓
 item.thermalfoundation.tool.electrumExcavator.name=琥珀金开掘铲
@@ -394,17 +444,19 @@ item.thermalfoundation.tool.electrumHammer.name=琥珀金锤
 item.thermalfoundation.tool.electrumHoe.name=琥珀金锄
 item.thermalfoundation.tool.electrumPickaxe.name=琥珀金镐
 item.thermalfoundation.tool.electrumShears.name=琥珀金剪刀
-item.thermalfoundation.tool.electrumShield.name=琥珀金盾
+item.thermalfoundation.tool.electrumShield.name=琥珀金盾牌
 item.thermalfoundation.tool.electrumShovel.name=琥珀金锹
 item.thermalfoundation.tool.electrumSickle.name=琥珀金镰刀
 item.thermalfoundation.tool.electrumSword.name=琥珀金剑
+
 item.thermalfoundation.tool.goldBow.name=金强化弓
 item.thermalfoundation.tool.goldExcavator.name=金开掘铲
 item.thermalfoundation.tool.goldFishingRod.name=金钓鱼竿
 item.thermalfoundation.tool.goldHammer.name=金锤
 item.thermalfoundation.tool.goldShears.name=金剪刀
-item.thermalfoundation.tool.goldShield.name=金盾
+item.thermalfoundation.tool.goldShield.name=金盾牌
 item.thermalfoundation.tool.goldSickle.name=金镰刀
+
 item.thermalfoundation.tool.invarAxe.name=殷钢斧
 item.thermalfoundation.tool.invarBow.name=殷钢强化弓
 item.thermalfoundation.tool.invarExcavator.name=殷钢开掘铲
@@ -413,17 +465,19 @@ item.thermalfoundation.tool.invarHammer.name=殷钢锤
 item.thermalfoundation.tool.invarHoe.name=殷钢锄
 item.thermalfoundation.tool.invarPickaxe.name=殷钢镐
 item.thermalfoundation.tool.invarShears.name=殷钢剪刀
-item.thermalfoundation.tool.invarShield.name=殷钢盾
+item.thermalfoundation.tool.invarShield.name=殷钢盾牌
 item.thermalfoundation.tool.invarShovel.name=殷钢锹
 item.thermalfoundation.tool.invarSickle.name=殷钢镰刀
 item.thermalfoundation.tool.invarSword.name=殷钢剑
+
 item.thermalfoundation.tool.ironBow.name=铁强化弓
 item.thermalfoundation.tool.ironExcavator.name=铁开掘铲
 item.thermalfoundation.tool.ironFishingRod.name=铁钓鱼竿
 item.thermalfoundation.tool.ironHammer.name=铁锤
 item.thermalfoundation.tool.ironShears.name=铁剪刀
-item.thermalfoundation.tool.ironShield.name=铁盾
+item.thermalfoundation.tool.ironShield.name=铁盾牌
 item.thermalfoundation.tool.ironSickle.name=铁镰刀
+
 item.thermalfoundation.tool.leadAxe.name=铅斧
 item.thermalfoundation.tool.leadBow.name=铅强化弓
 item.thermalfoundation.tool.leadExcavator.name=铅开掘铲
@@ -432,10 +486,11 @@ item.thermalfoundation.tool.leadHammer.name=铅锤
 item.thermalfoundation.tool.leadHoe.name=铅锄
 item.thermalfoundation.tool.leadPickaxe.name=铅镐
 item.thermalfoundation.tool.leadShears.name=铅剪刀
-item.thermalfoundation.tool.leadShield.name=铅盾
+item.thermalfoundation.tool.leadShield.name=铅盾牌
 item.thermalfoundation.tool.leadShovel.name=铅锹
 item.thermalfoundation.tool.leadSickle.name=铅镰刀
 item.thermalfoundation.tool.leadSword.name=铅剑
+
 item.thermalfoundation.tool.nickelAxe.name=镍斧
 item.thermalfoundation.tool.nickelBow.name=镍强化弓
 item.thermalfoundation.tool.nickelExcavator.name=镍开掘铲
@@ -444,10 +499,11 @@ item.thermalfoundation.tool.nickelHammer.name=镍锤
 item.thermalfoundation.tool.nickelHoe.name=镍锄
 item.thermalfoundation.tool.nickelPickaxe.name=镍镐
 item.thermalfoundation.tool.nickelShears.name=镍剪刀
-item.thermalfoundation.tool.nickelShield.name=镍盾
+item.thermalfoundation.tool.nickelShield.name=镍盾牌
 item.thermalfoundation.tool.nickelShovel.name=镍锹
 item.thermalfoundation.tool.nickelSickle.name=镍镰刀
 item.thermalfoundation.tool.nickelSword.name=镍剑
+
 item.thermalfoundation.tool.platinumAxe.name=铂斧
 item.thermalfoundation.tool.platinumBow.name=铂强化弓
 item.thermalfoundation.tool.platinumExcavator.name=铂开掘铲
@@ -456,10 +512,11 @@ item.thermalfoundation.tool.platinumHammer.name=铂锤
 item.thermalfoundation.tool.platinumHoe.name=铂锄
 item.thermalfoundation.tool.platinumPickaxe.name=铂镐
 item.thermalfoundation.tool.platinumShears.name=铂剪刀
-item.thermalfoundation.tool.platinumShield.name=铂盾
+item.thermalfoundation.tool.platinumShield.name=铂盾牌
 item.thermalfoundation.tool.platinumShovel.name=铂锹
 item.thermalfoundation.tool.platinumSickle.name=铂镰刀
 item.thermalfoundation.tool.platinumSword.name=铂剑
+
 item.thermalfoundation.tool.silverAxe.name=银斧
 item.thermalfoundation.tool.silverBow.name=银强化弓
 item.thermalfoundation.tool.silverExcavator.name=银开掘铲
@@ -468,10 +525,11 @@ item.thermalfoundation.tool.silverHammer.name=银锤
 item.thermalfoundation.tool.silverHoe.name=银锄
 item.thermalfoundation.tool.silverPickaxe.name=银镐
 item.thermalfoundation.tool.silverShears.name=银剪刀
-item.thermalfoundation.tool.silverShield.name=银盾
+item.thermalfoundation.tool.silverShield.name=银盾牌
 item.thermalfoundation.tool.silverShovel.name=银锹
 item.thermalfoundation.tool.silverSickle.name=银镰刀
 item.thermalfoundation.tool.silverSword.name=银剑
+
 item.thermalfoundation.tool.steelAxe.name=钢斧
 item.thermalfoundation.tool.steelBow.name=钢强化弓
 item.thermalfoundation.tool.steelExcavator.name=钢开掘铲
@@ -480,17 +538,19 @@ item.thermalfoundation.tool.steelHammer.name=钢锤
 item.thermalfoundation.tool.steelHoe.name=钢锄头
 item.thermalfoundation.tool.steelPickaxe.name=钢镐
 item.thermalfoundation.tool.steelShears.name=钢剪刀
-item.thermalfoundation.tool.steelShield.name=钢盾
+item.thermalfoundation.tool.steelShield.name=钢盾牌
 item.thermalfoundation.tool.steelShovel.name=钢锹
 item.thermalfoundation.tool.steelSickle.name=钢镰刀
 item.thermalfoundation.tool.steelSword.name=钢剑
+
 item.thermalfoundation.tool.stoneBow.name=石强化弓
 item.thermalfoundation.tool.stoneExcavator.name=石开掘铲
 item.thermalfoundation.tool.stoneFishingRod.name=石钓鱼竿
 item.thermalfoundation.tool.stoneHammer.name=石锤
 item.thermalfoundation.tool.stoneShears.name=石剪刀
-item.thermalfoundation.tool.stoneShield.name=石盾
+item.thermalfoundation.tool.stoneShield.name=石盾牌
 item.thermalfoundation.tool.stoneSickle.name=石镰刀
+
 item.thermalfoundation.tool.tinAxe.name=锡斧
 item.thermalfoundation.tool.tinBow.name=锡强化弓
 item.thermalfoundation.tool.tinExcavator.name=锡开掘铲
@@ -499,15 +559,17 @@ item.thermalfoundation.tool.tinHammer.name=锡锤
 item.thermalfoundation.tool.tinHoe.name=锡锄
 item.thermalfoundation.tool.tinPickaxe.name=锡镐
 item.thermalfoundation.tool.tinShears.name=锡剪刀
-item.thermalfoundation.tool.tinShield.name=锡盾
+item.thermalfoundation.tool.tinShield.name=锡盾牌
 item.thermalfoundation.tool.tinShovel.name=锡锹
 item.thermalfoundation.tool.tinSickle.name=锡镰刀
 item.thermalfoundation.tool.tinSword.name=锡剑
+
 item.thermalfoundation.tool.woodExcavator.name=木开掘铲
 item.thermalfoundation.tool.woodHammer.name=木锤
 item.thermalfoundation.tool.woodShears.name=木剪刀
-item.thermalfoundation.tool.woodShield.name=木盾
+item.thermalfoundation.tool.woodShield.name=木盾牌
 item.thermalfoundation.tool.woodSickle.name=木镰刀
+
 item.thermalfoundation.upgrade.creative.name=创造转换套件
 item.thermalfoundation.upgrade.full1.name=硬化转换套件
 item.thermalfoundation.upgrade.full2.name=强化转换套件
@@ -517,6 +579,7 @@ item.thermalfoundation.upgrade.incremental1.name=硬化升级套件
 item.thermalfoundation.upgrade.incremental2.name=强化升级套件
 item.thermalfoundation.upgrade.incremental3.name=信素升级套件
 item.thermalfoundation.upgrade.incremental4.name=谐振升级套件
+
 item.thermalfoundation.util.lock.name=信素安全锁
 item.thermalfoundation.util.multimeter.name=万用表
 item.thermalfoundation.util.wrench0.name=新月锤
@@ -524,28 +587,33 @@ item.thermalfoundation.util.wrench1.name=新月锤（硬化）
 item.thermalfoundation.util.wrench2.name=新月锤（强化）
 item.thermalfoundation.util.wrench3.name=新月锤（信素）
 item.thermalfoundation.util.wrench4.name=新月锤（谐振）
+
 itemGroup.thermalfoundation.creativeTab=热力基础
 itemGroup.thermalfoundation.creativeTabArmor=热力基础丨护甲
 itemGroup.thermalfoundation.creativeTabTools=热力基础丨工具
 itemGroup.thermalfoundation.creativeTabUtils=热力基础丨设施
+
 itemGroup.thermalseries.creativeTabBlocks=热力系列丨方块
 itemGroup.thermalseries.creativeTabItems=热力系列丨物品
 itemGroup.thermalseries.creativeTabMisc=热力系列丨杂项
 itemGroup.thermalseries.creativeTabTools=热力系列丨工具
 itemGroup.thermalseries.creativeTabUtils=热力系列丨实用物品
+
 tab.thermalfoundation.lexicon.study.0=学习关于这个世界的知识，然后改变你自己的命运。
 tab.thermalfoundation.lexicon.study.1=借助词典的力量使世界服从你的意识。
 tab.thermalfoundation.lexicon.transmute.0=你可以通过更强大的能量来转换等价物品。
 tab.thermalfoundation.lexicon.transmute.1=压制此词典，迫使其放弃对世界的主宰。
+
 tile.thermalfoundation.fluid.aerotheum.name=飞扬之清风
 tile.thermalfoundation.fluid.crude_oil.name=石油
 tile.thermalfoundation.fluid.cryotheum.name=极寒之凛冰
-tile.thermalfoundation.fluid.ender.name=谐振末影珍珠
-tile.thermalfoundation.fluid.glowstone.name=充能液态荧石
+tile.thermalfoundation.fluid.ender.name=谐振末影
+tile.thermalfoundation.fluid.glowstone.name=充能荧石
 tile.thermalfoundation.fluid.mana.name=元始魔力
 tile.thermalfoundation.fluid.petrotheum.name=板块之层岩
 tile.thermalfoundation.fluid.pyrotheum.name=烈焰之炽焱
 tile.thermalfoundation.fluid.redstone.name=不稳定红石
+
 tile.thermalfoundation.glass.aluminum.name=硬化铝玻璃
 tile.thermalfoundation.glass.bronze.name=硬化青铜玻璃
 tile.thermalfoundation.glass.constantan.name=硬化康铜玻璃
@@ -563,21 +631,23 @@ tile.thermalfoundation.glass.signalum.name=硬化信素玻璃
 tile.thermalfoundation.glass.silver.name=硬化银玻璃
 tile.thermalfoundation.glass.steel.name=硬化钢玻璃
 tile.thermalfoundation.glass.tin.name=硬化锡玻璃
+
 tile.thermalfoundation.ore.aluminum.name=铝矿石
 tile.thermalfoundation.ore.copper.name=铜矿石
 tile.thermalfoundation.ore.crude_oil_gravel.name=油页岩
 tile.thermalfoundation.ore.crude_oil_red_sand.name=油砂
 tile.thermalfoundation.ore.crude_oil_sand.name=油砂
-tile.thermalfoundation.ore.ender.name=谐振末影矿石
+tile.thermalfoundation.ore.ender.name=谐振末地石
 tile.thermalfoundation.ore.glowstone.name=充能地狱岩
-tile.thermalfoundation.ore.iridium.name=铱矿石
 tile.thermalfoundation.ore.lead.name=铅矿石
+tile.thermalfoundation.ore.iridium.name=铱矿石
 tile.thermalfoundation.ore.mithril.name=蕴魔秘银矿石
 tile.thermalfoundation.ore.nickel.name=镍矿石
 tile.thermalfoundation.ore.platinum.name=铂矿石
 tile.thermalfoundation.ore.redstone.name=不稳定红石矿石
 tile.thermalfoundation.ore.silver.name=银矿石
 tile.thermalfoundation.ore.tin.name=锡矿石
+
 tile.thermalfoundation.rockwool.black.name=黑色石棉
 tile.thermalfoundation.rockwool.blue.name=蓝色石棉
 tile.thermalfoundation.rockwool.brown.name=棕色石棉
@@ -594,6 +664,7 @@ tile.thermalfoundation.rockwool.red.name=红色石棉
 tile.thermalfoundation.rockwool.silver.name=淡灰色石棉
 tile.thermalfoundation.rockwool.white.name=白色石棉
 tile.thermalfoundation.rockwool.yellow.name=黄色石棉
+
 tile.thermalfoundation.storage.aluminum.name=铝块
 tile.thermalfoundation.storage.bronze.name=青铜块
 tile.thermalfoundation.storage.charcoal.name=木炭块

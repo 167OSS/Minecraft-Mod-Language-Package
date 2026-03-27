@@ -233,6 +233,10 @@ entity.Villager.steel_forger=Steel Forger
 fluid.creosote=Creosote Oil
 fluid.steam=Steam
 
+item.minecartChest.name=Chest Cart
+item.minecartFurnace.name=Furnace Cart
+item.minecartTnt.name=TNT Cart
+item.minecartHopper.name=Hopper Cart
 
 item.railcraft.armor.boots.steel.name=Steel Boots
 item.railcraft.armor.chestplate.steel.name=Steel Chestplate
@@ -888,6 +892,10 @@ thaumcraft.research.RC_Crowbar_Void.name=Void metal Crowbar
 thaumcraft.research.RC_Crowbar_Void.page.1=Taking things one step further, you have applied your master of arcane materials to create the ultimate Crowbar.
 thaumcraft.research.RC_Crowbar_Void.text=[RC] Gordon would be proud...
 
+tile.activatorRail.name=Activator Track
+tile.detectorRail.name=Detector Track
+tile.goldenRail.name=Booster Track
+tile.rail.name=Track
 
 tile.railcraft.actuator.lever.name=Switch Actuator Lever
 tile.railcraft.actuator.lever.tips=Controls adjacent Switch Tracks\n§o§9Manual Operation
@@ -1227,8 +1235,8 @@ tile.railcraft.ore.dark.lapis.name=Dark Lapis Lazuli Ore
 tile.railcraft.ore.saltpeter.name=Saltpeter Ore
 tile.railcraft.ore.sulfur.name=Sulfur Ore
 
-tile.railcraft.ore.magic.firestone.name=Firestone Ore
-tile.railcraft.ore.magic.firestone.tips.name=Burning everything except flesh,\n you can feel the air change\n around you as you hold it...
+tile.railcraft.ore.magic.name=Firestone Ore
+tile.railcraft.ore.magic.tips=Burning everything except flesh,\n you can feel the air change\n around you as you hold it...
 
 tile.railcraft.ore.metal.copper.name=Copper Ore
 tile.railcraft.ore.metal.lead.name=Lead Ore
